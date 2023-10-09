@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elsatbet
+- 👋 Hi, I’m @elsabet
 - 👀 I’m interested in web developer and maintain
 - 🌱 I’m currently learning fullstack website developer
 - 💞️ I’m looking to collaborate on ...
